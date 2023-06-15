@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/login">
+        <file>image/学院logo（jiangsu university jingjiang college）.png</file>
+        <file>image/雪山.png</file>
+        <file>image/box1.png</file>
+        <file>image/btn.png</file>
+    </qresource>
+</RCC>
